@@ -1,1 +1,11 @@
 
+### 5. **Agregar un Archivo de Licencia**
+Añade un archivo de licencia para definir los términos de uso y distribución del proyecto. Puedes usar la licencia MIT, Apache 2.0, o cualquier otra que prefieras. Puedes generar el archivo de licencia desde la opción "Add a license" en la página principal de tu repositorio en GitHub.
+
+### 6. **Configurar Git y Hacer Commit de los Cambios Iniciales**
+1. Clona el repositorio a tu máquina local:
+
+```bash
+git clone https://github.com/tu-usuario/AI-Design-Assistant.git
+cd AI-Design-Assistant
+
